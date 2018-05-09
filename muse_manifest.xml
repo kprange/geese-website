@@ -1,0 +1,66 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="gww.com" resolutions="1x" timestamp="1525729035553">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="481968186" ref="our-story:contact-us:index:take-action"/>
+    <file name="our-story.css" crc="254877937" ref="our-story"/>
+    <file name="contact-us.css" crc="3894396264" ref="contact-us"/>
+    <file name="index.css" crc="517865574" ref="index"/>
+    <file name="take-action.css" crc="4079008801" ref="take-action"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:our-story:contact-us:take-action"/>
+    <file name="museutils.js" crc="340535759" ref="index:our-story:contact-us:take-action"/>
+    <file name="whatinput.js" crc="86476730" ref="index:our-story:contact-us:take-action"/>
+    <file name="museconfig.js" crc="310584261" ref="index:our-story:contact-us:take-action"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:our-story:contact-us:take-action"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:our-story:contact-us:take-action"/>
+    <file name="webpro.js" crc="4059564322" ref="index:our-story:contact-us:take-action"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:our-story:contact-us:take-action"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:our-story:contact-us:take-action"/>
+    <file name="require.js" crc="7928878" ref="index:our-story:contact-us:take-action"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
+    <file name="form_process.php" crc="37464564" ref="contact-us"/>
+    <file name="form-u2713.php" crc="4073355150" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="1012926_tcm9-138318.jpg" crc="3961785570" seo="true" ref="index:our-story:contact-us:take-action">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="take-action" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-story" alt=""/>
+    </file>
+    <file name="goose_flipped.svg" crc="4089822120" ref="index:our-story:contact-us:take-action"/>
+    <file name="goose_flipped_poster_u2438.png" crc="419629628" ref="index:our-story:contact-us:take-action"/>
+    <file name="blank.gif" crc="4208392903" ref="index:our-story:contact-us:take-action"/>
+    <file name="u980-7.png" crc="4289678805" ref="index"/>
+    <file name="logo_geese.svg" crc="4219203449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_geese_poster_.png" crc="3977289589" ref="index"/>
+    <file name="hamburger.svg" crc="3798895539" ref="index"/>
+    <file name="hamburger_poster_u1967.png" crc="4197133940" ref="index"/>
+    <file name="canadian-geese-in-blue-water.jpg" crc="46208133" seo="true" ref="our-story">
+      <caption webpage="our-story" alt=""/>
+    </file>
+    <file name="u2620-4.png" crc="4101756942" ref="our-story"/>
+    <file name="logo_geese_no-type.svg" crc="3851798012" seo="true" ref="our-story:contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-story" alt=""/>
+    </file>
+    <file name="logo_geese_no type_poster_.png" crc="3971155479" ref="our-story"/>
+    <file name="003-111910-urbancanadageeseflyingthruneighborhood.jpg" crc="3873216787" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="u2674-4.png" crc="487789274" ref="contact-us"/>
+    <file name="autumn-1757887_1280.jpg" crc="3939728809" seo="true" ref="take-action">
+      <caption webpage="take-action" alt=""/>
+    </file>
+    <file name="u2819-4.png" crc="197278567" ref="take-action"/>
+  </folder>
+  <file name="index.html" crc="3969778856" seo="true" mt="1525721726843" redirect="true"/>
+  <file name="our-story.html" crc="3842535293" seo="true" mt="1525721960136" redirect="true"/>
+  <file name="contact-us.html" crc="331779058" seo="true" mt="1525721726843" redirect="true"/>
+  <file name="take-action.html" crc="4028227573" seo="true" mt="1525721726843" redirect="true"/>
+</manifest>
